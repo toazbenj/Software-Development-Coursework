@@ -1,3 +1,6 @@
+# Software Development Course: Action Sudoku
+
+
 <p align="center">
 <img width="700" alt="image" src="https://github.com/toazbenj/Software-Development-Coursework/assets/90994176/38fb59e4-3491-4262-a223-d0c8ae43cef4">
 </p>
