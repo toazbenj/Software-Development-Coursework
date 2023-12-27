@@ -40,7 +40,6 @@ __MACOSX
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
