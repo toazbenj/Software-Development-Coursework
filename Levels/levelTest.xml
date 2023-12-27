@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="20" height="15" tilewidth="48" tileheight="48">
+	<declarations>
+		<xray id="i384" width="144" height="144" image="xray.png" capacity="7" />
+		<background id="i389" width="960" height="720" image="background0.png" />
+	</declarations>
+	<game col="6" row="3">3 2 4 8 7 6 0 1 5 7 5 6 2 0 1 4 8 3 0 8 1 4 3 5 7 6 2 6 4 8 0 2 7 3 5 1 2 7 5 3 1 8 6 0 4 1 3 0 6 5 4 8 2 7 5 6 7 1 4 0 2 3 8 8 1 2 7 6 3 5 4 0 4 0 3 5 8 2 1 7 6</game>
+	<items>
+		<background id="i389" col="0.0" row="14.0" />
+		<xray id="i384" col="0.6042" row="14.0" />
+	</items>
+</level>
